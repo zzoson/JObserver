@@ -1,3 +1,2 @@
-# JObserver
-# JObserver
-# JObserver
+# 简单理解观察者模式
+
