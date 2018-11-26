@@ -1,7 +1,7 @@
 # 简单理解观察者模式 
 ## 观察者模式的命名习惯：   
-    ### 观察者：xxxObserver
-    ### 被观察的目标：xxxSubject
+  观察者：xxxObserver
+  被观察的目标：xxxSubject
 ## 实现步骤：
 * 步骤一：
     #### 定义Observer对象，注意：定义的是接口，里面有个方法，习惯命名为update
